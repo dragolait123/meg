@@ -19,8 +19,7 @@ import pygame
 import numpy as np
 from pynput.keyboard import Controller
 import time
-import subprocess
-subprocess.Popen(["python", "background_task.py"])
+import subprocess
 
 from flask import Flask
 
